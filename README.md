@@ -5,6 +5,7 @@ Introduction: The VK FLIX is a dynamic web application that allows users to brow
 Objective: The primary goal of this project is to develop a fully functional movie streaming platform where users can search, select, and watch movies with ease. The website aims to deliver a seamless user experience by utilizing JavaScript to dynamically manipulate and manage the content.
 
 Technology Stack:
+
 •   Frontend: HTML, CSS, JavaScript
 
 • JavaScript Methods & Properties Used: 
